@@ -1,4 +1,6 @@
 # SFJTextFieldDemo
+
+[inputkit也许是更好的解决方案](https://github.com/tingxins/InputKit) 
 解决UITextField的输入检测的方案，以及非第三方键盘适应的小demo
 
 > 该demo 主要是借鉴，LXDTextFieldAdjust写的
